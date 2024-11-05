@@ -108,30 +108,25 @@ gap: 50px;
     -o-border-radius:20px;
     width: 532px;
     height: 60px;
-    margin-top: 35px;
+    margin-top: -350px;
     margin-left: 190px;
     color: #656084;
     font-weight: 300;
     font-family: "Montserrat";
-
-h5{
+    text-align:center;
+} h5{
     background-color: #FBA457;
     padding: 10px 30px 10px 30px;
     border-radius: 30px;
-    -webkit-border-radius:30px;
-    -moz-border-radius:20px;
-    -ms-border-radius:20px;
-    -o-border-radius:20px;
      width: 154px;
      height: 60px;
-     top: 436px;
+     margin-top: -80px;
      color: #F2F0FE;
-     display: flex;
      gap:40px;
-     margin-left: 150px;
+     margin-left: 570px;
      font-weight: 400;
      text-align: center;
      font-family: "Montserrat";
      line-break: 19.5px;
-}
+     margin-inline-end: 45px;
 }

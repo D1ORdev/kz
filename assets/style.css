@@ -28,7 +28,7 @@ header{
 .textsitem
 {
     font-weight: 500;
-    font-size: 16px;
+    font-size: 15px;
     color:rgba(0, 0, 0, 1);
     font-family: "Montserrat";
 }
@@ -40,8 +40,8 @@ header{
     
 }
 .first{
-    width: Hug 171px;
-    height: Hug 40px;
+    width: 171px;
+    height:40px;
     top: 20px;
     left: 1006px;
     padding: 10px 30px 10px 30px;
@@ -52,8 +52,8 @@ header{
     border-style: hidden;
 }
 .scnd{
-    width: Hug 113px;
-    height: Hug 40px;
+    width: 113px;
+    height: 40px;
     top: 20px;
     left: 1207px;
     padding: 10px 30px 10px 30px;
@@ -73,6 +73,8 @@ header{
     margin-top:70px ;
     margin: 200px;
     width: 600px;
+    line-height: 43.88px;
+    gap: 15px;
  h2{
 color: #1DBF73;
 font-weight: 700;
@@ -92,4 +94,7 @@ gap: 50px;
     height: 48px;
     margin-top:-170px; 
 }
-
+.akaxon{
+    margin-left: 890px;
+    margin-top: -200px;
+}

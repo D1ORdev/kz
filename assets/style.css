@@ -159,41 +159,113 @@ text-align: center,bottom;
     font-weight: 500;
     line-height: 19.5px;
 }
-.fr1 p{
-font-family: "Montserrat";
-font-weight: 400;
-font-size: 14px;
-margin-left: 215px;
-margin-top: 50px;
-color: #222222;
+#cards{
+    margin-top: 180px;
+    margin-left:120px;
+    display: block;
 }
-.fr2 p{
+.tepa1{
+    margin-top: 500px;
+}
+.tepatitle{
+    font-weight: 600;
+    font-size: 24px;
+    color:rgba(34, 34, 34, 1);
+    font-family: "Montserrat";
+}
+
+.info1{
+     margin-top:60px;
+    background-color:rgb(241, 238, 238);
+   display: block;
+   width: 450px;
+   height: 260px;
+   font-size: 17px;
+   font-family: "Montserrat";
+   font-weight: 400;
+   border-radius: 40px 60px 40px 60px;
+   border-radius: 10px;
+   -webkit-border-radius:30px;
+   -moz-border-radius:20px;
+   -ms-border-radius:20px;
+   -o-border-radius:20px;
+   padding: 16px 16px 16px 16px;
+   p{
+    width: 380px;
+    height: 85px;
+    margin-top: -20px;
+    margin-left:10px;
     font-family: "Montserrat";
     font-size: 14px;
     font-weight: 400;
-    margin-left: 420px;
-    margin-top: -30px;
+    line-height: 17.07px;
+    text-align: left;
+   }
 }
-.fr3 p{
+.yozuv{
+    width: 316px;
+    height: 44px;
+    margin-top: -45px;
+    margin-left: 85px;
     font-family: "Montserrat";
-    font-weight: 400;
-    width:96px;
-    height:37px;
-    margin-top: -38px;
-    margin-left: 560px;
-    padding: 10px 20px 10px 20px;
-    gap: 10px;
-    border-radius: 40px 40px 40px 40px;
-
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.94px;
+    text-align: left;
+    color: #222222;
 }
-.knopkacha{
-    border-color: #FBA457;
-    background-color: white;
+.prosmotr{
+    width: 380px;
+    height: 41px;
+    margin-top: 10px;
+    margin-left: 5px;
     border-radius: 50px 50px 50px 50px;
-    border-radius: 300px;
-    
+    border-color: #1DBF73;
+    color: #1DBF73;
+
 }
+.info2{
+  margin-top:-260px;
+  margin-left: 480px;
+  background-color:rgb(241, 238, 238);
+  display: block;
+  width: 450px;
+  height: 260px;
+  font-size: 17px;
+  font-family: "Montserrat";
+  font-weight: 400;
+  border-radius: 40px 60px 40px 60px;
+  border-radius: 10px;
+  -webkit-border-radius:30px;
+  -moz-border-radius:20px;
+  -ms-border-radius:20px;
+  -o-border-radius:20px;
+  padding: 16px 16px 16px 16px;
+  h6{
+    margin-top: -35px;
+    color:#222222;
+  }
+  p{
+   width: 380px;
+   height: 85px;
+   margin-top: -30px;
+   margin-left:10px;
+   font-family: "Montserrat";
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 17.07px;
+   text-align: left;
+  }
+}
+.prosmotr2{
+    width: 380px;
+    height: 41px;
+    margin-top: 10px;
+    margin-left: 25px;
+    border-radius: 50px 50px 50px 50px;
+    color: white;
+    background-color: #1DBF73;
+    border-style: hidden;
 
 
-
-
+}

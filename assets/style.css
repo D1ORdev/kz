@@ -807,12 +807,12 @@ text-align: center,bottom;
   }
   .cardsi{
     display: block;
-    width: 427px;
-    height: 29px;
+    width: 560px;
+    height: 20px;
     margin-top: -80px;
     margin-left: 20px;
     font-family: "Montserrat";
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 600;
     line-height: 29.26px;
     letter-spacing: 0.02em;
@@ -820,19 +820,32 @@ text-align: center,bottom;
         width: 396px;
         height: 20px;
         margin-top: 40px;
-        margin-left: 140px;
+        margin-left: -40px;   
+            width: 396px;
+            height: 20px;
+            top: 40px;
+            left: 300px;
+            font-family: "Montserrat";
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 19.5px;
+            text-align: left;
+        
        
     }
 }
 .cardsi1{
     display: block;
     margin-left: -500px;
+    margin-top: 80px;
 }
 .cardsi2{
 display: block;
+    margin-top: 80px;
 }
 .cardsi3{
     display: block;
+    margin-top: 80px;
 }
 .pastgicard{
     display: flex;

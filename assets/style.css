@@ -853,3 +853,107 @@ display: block;
     margin-left: 50px;
     gap: 30px;
 }
+#yellown{
+    margin-top: 100px;
+    background-image:url("/assets/images/Group\ 31.png")
+}
+.helpbs{
+    padding-top: 50px;
+   margin-left: 100px;
+   display: block;
+
+}
+.hbstitle
+{
+    color:rgba(246, 250, 253, 1);
+    font-family: "Montserrat";
+    font-size:24px;
+    font-weight: 600;
+}
+.toppest{
+   
+    padding: 20px;
+    display: flex;
+    gap:30px;
+    width:533px;
+    height: 90px;
+    background-color:rgba(246, 250, 253, 1);
+    border-radius:20px;
+
+    h5{
+        margin-top:15px;
+        font-family: "Montserrat";
+        font-size: 14px;
+        font-weight: 400;
+        color:rgba(34, 34, 34, 1);
+    }
+   
+}
+
+.middles{
+
+    
+   margin-top: 30px;
+    padding:20px;
+    display: flex;
+    gap:30px;
+    width:533px;
+    height: 90px;
+    background-color:rgba(246, 250, 253, 1);
+    border-radius:20px;
+
+    h5{
+        margin-top:13px;
+        font-family: "Montserrat";
+        font-size: 14px;
+        font-weight: 400;
+        color:rgba(34, 34, 34, 1);
+    }
+
+}
+
+.bottoms{
+
+    margin-top: 30px;
+    padding:20px;
+    display: flex;
+    gap:30px;
+    width:533px;
+    height: 90px;
+    background-color:rgba(246, 250, 253, 1);
+    border-radius:20px;
+
+    h5{
+        margin-top:13px;
+        font-family: "Montserrat";
+        font-size: 14px;
+        font-weight: 400;
+        color:rgba(34, 34, 34, 1);
+    }
+
+}
+
+.hbsbottomtitle{
+    color:rgba(246, 250, 253, 1);
+    font-weight: 600;
+    font-size: 20px;
+    font-family: "Montserrat";
+}
+
+.hbsbtn{
+    font-family: "Montserrat";
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    margin-top:40px;
+   background-color:rgba(94, 78, 219, 1);
+   padding-top:20px ;
+   padding-left: 60px;
+   padding-right: 60px;
+   padding-bottom: 20px;
+   border-radius:50px;
+   border-style:hidden;
+   text-align: center;
+   color:#ffff;
+   
+}

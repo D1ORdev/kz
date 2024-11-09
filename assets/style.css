@@ -957,6 +957,10 @@ display: block;
    color:#ffff;
    
 }
+.bckg{
+    margin-top: -60px;
+    background-color: #F2F0FE;
+}
 .fdetails{
     display: flex;
     gap: 120px;
